@@ -1,1 +1,165 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Arbrim",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Arbrim Rashiti - Enthusiast",
+  "headerTaglineThree": "Software Engineer",
+  "headerTaglineFour": "based in Prishtina, Kosovo.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/arbrim"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/arbrimrashiti/"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Rekog",
+      "description": "AI-curated profile for public sharing and internal growth tracking, optimizing company talent growth through peer feedback and productivity-related platform integration.",
+      "imageSrc": "/images/rekog.png",
+      "url": "https://rekog.com/"
+    },
+    {
+      "id": "2",
+      "title": "FirsTrust",
+      "description": "A banking system that helps manage various loan processes including ACH, PreFlight, Origination, Onboarding, and more, with full-stack development involvement.",
+      "imageSrc": "/images/firstrust.png",
+      "url": "https://www.firstrust.com/"
+    },
+    {
+      "id": "3",
+      "title": "Northfield",
+      "description": "A comprehensive system for managing bank-related tasks like Facilities, Parties, Collaterals, KYC Checks, and Financial Reporting with both front-end and back-end development.",
+      "imageSrc": "/images/northfield.png",
+      "url": "https://www.enorthfield.com/"
+    },
+    {
+      "id": "5",
+      "title": "Krejt.Dev",
+      "description": "A landing page that serves as a communication tool for developers and more.",
+      "imageSrc": "images/krejtdev.png",
+      "url": "https://krejt.dev/"
+    },
+    {
+      "id": "6",
+      "title": "Ria Capital",
+      "description": "Developed and maintained a Spring application with document management and token management features, generating various reports using Jaspersoft.",
+      "imageSrc": "/images/capitalria.jpg",
+      "url": "https://capital-ks.com/"
+    },
+    {
+      "id": "7",
+      "title": "Besa Security",
+      "description": "Provided Customer management APIs and added supplier management features with backend development and QA automation setup.",
+      "imageSrc": "images/besasecurity.png",
+      "url": "https://besasecurity.com/en/home-page-en/"
+    },
+    {
+      "id": "8",
+      "title": "Spar",
+      "description": "Developed custom Shopify applications for product and order customization, and data migration to the Gigya SAP store.",
+      "imageSrc": "images/spar.png",
+      "url": "https://spar-international.com/"
+    },
+    {
+      "id": "9",
+      "title": "SAP Hybris Development",
+      "description": "Built extendable features within the SAP Hybris framework, implementing cleanup scripts and resolving client tickets.",
+      "imageSrc": "images/saperp.png",
+      "url": "https://www.sap.com/germany/asset/dynamic/2023/05/fe8a3ca3-727e-0010-bca6-c68f7e60039b.html"
+    },
+    {
+      "id": "10",
+      "title": "Employ Agility",
+      "description": "Implemented a custom Survey based on Lifelong Employability to help clients reflect and enhance personal agility.",
+      "imageSrc": "images/employagility.svg",
+      "url": "https://employagility.ch/en"
+    },
+    {
+      "id": "11",
+      "title": "Animus Heart",
+      "description": "Developed over 100+ automated tests to ensure quality for a smart home management system using Selenium and Selenide.",
+      "imageSrc": "images/animushome.svg",
+      "url": "https://www.animushome.com/en/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Full Stack Development",
+      "description": "Experienced in both frontend and backend development, capable of building complete web applications."
+    },
+    {
+      "id": "2",
+      "title": "API Development",
+      "description": "Proficient in creating RESTful APIs, GraphQL, and gRPC services for efficient data communication."
+    },
+    {
+      "id": "3",
+      "title": "DevOps",
+      "description": "Skilled in containerization, orchestration, and cloud services to streamline development and deployment processes."
+    },
+    {
+      "id": "4",
+      "title": "QA Automation",
+      "description": "Experienced in setting up and implementing automated testing frameworks to ensure software quality."
+    }
+  ],
+  "aboutpara": "I am a Software Engineer with a strong background in full-stack development, API technologies, and DevOps practices. With experience across various industries and technologies, I've contributed to projects ranging from banking systems to e-commerce platforms. I'm passionate about creating efficient, scalable solutions and continuously expanding my skillset in the ever-evolving tech landscape.",
+  "resume": {
+    "tagline": "👋 I'm a software engineer specializing in full-stack development and DevOps.",
+    "description": "I have experience in developing and maintaining complex systems, from frontend user interfaces to backend services and database management. My expertise spans across various technologies and frameworks, allowing me to deliver robust and scalable solutions.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "July 2022 - Present",
+        "type": "Full Time",
+        "position": "Software Engineer at Ritech - North Field, Firstrust",
+        "bullets": "Implementing new features for banking systems, Maintaining and adapting existing systems, Full-stack development"
+      },
+      {
+        "id": "2",
+        "dates": "May 2022 - Present",
+        "type": "Full Time",
+        "position": "Software Engineer - at Personal Project - Rekog",
+        "bullets": "Organizing, Planning, Implementing features to optimize talent growth, Developed full-stack solutions from DB modeling to UI, Integrated with productivity-related platforms for synchronization"
+      }
+    ],
+    "education": {
+      "universityName": "University for Business and Technology",
+      "universityDate": "2015-2022",
+      "universityPara": "BSc of Computer Sciences & Engineering"
+    },
+    "languages": [
+      "Java",
+      "Node.js",
+      "C#",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "frameworks": [
+      "Spring",
+      "NestJS",
+      "React",
+      "Next.js",
+      "Angular",
+      "Express"
+    ],
+    "others": [
+      "Docker",
+      "Kubernetes",
+      "Azure",
+      "GraphQL",
+      "REST"
+    ]
+  }
+}
